@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Last Digits (ld)
- *
+ * main - Print Last Digits (ld)
  * Return: Always 0 (Success)
  */
 int main(void)
