@@ -7,18 +7,18 @@
  */
 void print_rev(char *s)
 {
-	int long;
+	int longi;
 	int c = 0;
 
 	while (*s != '\0')
 	{
-		long++;
+		longi++;
 		s++;
 
 	}
 	s--;
 
-	for (c = long; c > 0; c--)
+	for (c = longi; c > 0; c--)
 	{
 		_putchar(*s);
 		s--;
