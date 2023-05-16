@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _puts - Entry point
- * @str : string
+ * _puts - prints a string, followed by a new line, to stdout
+ * @str : string to print
  * Return: Always 0 (Success)
  */
 void _puts(char *str)
